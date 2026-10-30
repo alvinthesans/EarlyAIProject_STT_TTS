@@ -1,0 +1,5 @@
+.gradio/
+
+*.pem
+*.crt
+*.key
